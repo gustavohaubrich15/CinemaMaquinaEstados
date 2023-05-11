@@ -23,5 +23,5 @@ $ npm start
 ![image](https://github.com/gustavohaubrich15/CinemaMaquinaEstados/assets/22485428/5ad5be1f-f12f-4268-bfa6-0ef4df02fafe)
 
 
-* [Acesse aqui a aplicação](https://portfolio-gtziyuszb-gustavohaubrich15.vercel.app/)
+* [Acesse aqui a aplicação](https://cinema-maquina-estados.vercel.app/)
 
